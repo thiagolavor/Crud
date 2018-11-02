@@ -1,11 +1,9 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Arthur ",
-        "email": "aoliveira@cod3r.com.br"
-    }, {
-        "id": 2,
-        "name": "Maria Julian da Silva",
-        "email": "mjds@empresa.com"    
-    }]
+  "users": [
+    {
+      "name": "thiagolavor",
+      "email": "thiagolavor@gmail.com",
+      "id": 1
+    }
+  ]
 }
